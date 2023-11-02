@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web and app course**
 
-- 👨‍💻 All of my projects are available at [abdulhaseebj.github.io/new-portfolio/](abdulhaseebj.github.io/new-portfolio/)
+- 👨‍💻 All of my projects are available at [abdulhaseebj.github.io/new-portfolio/](https://abdulhaseebj.github.io/new-portfolio/)
 
 - 💬 Ask me about **HTML,CSS,Javascript**
 
